@@ -1,15 +1,23 @@
-# Building Your First Web Page
+# HTML & CSS
 
-## In this Section
+## 1. Building Your First Web Page
 
-### HTML
+In this section:
 
-* Common HTML Terms
-* Document Structure
-* Referencing CSS
+| HTML | CSS |
+|------|-----|
+| &#183; Common HTML Terms   | &#183; Common CSS Terms
+| &#183; Document Structure  | &#183; Working with Selectors
+| &#183; Referencing CSS     | &#183; Using CSS Resets
 
-### CSS
+## 2. Getting to Know HTML
 
-* Common CSS Terms
-* Working with Selectors
-* Using CSS Resets
+In this section:
+
+| HTML |
+|------|
+| &#183; Semantics Overview
+| &#183; Divisions & Spans
+| &#183; Text-Based Elements
+| &#183; Building Structure
+| &#183; Creating Hyperlinks
