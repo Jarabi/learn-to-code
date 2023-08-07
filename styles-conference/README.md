@@ -1,6 +1,6 @@
 # Building Your First Web Page
 
-## In this Lesson
+## In this Section
 
 ### HTML
 
