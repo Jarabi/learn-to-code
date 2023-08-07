@@ -1,7 +1,5 @@
 # LEARN TO CODE
 
-<kbd>HTML</kbd> <kbd>CSS</kbd>
-
 ## About
 
 This is a two-part series on frontend web-development curriculum by [Shay Howe](https://learn.shayhowe.com/) to teach people how to build beautiful and intuitive websites by way of clear and organized lessons. The guide covers a variety of web design and development topics, ranging from beginner to advanced skill levels.
